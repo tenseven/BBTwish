@@ -6,7 +6,7 @@ typora-copy-images-to: BBTwish
 
 * 用来储存我们预先设定好的wishes,给用户参考
 
-* ![data1](BBTwish/data1.png)
+* ![data1](https://github.com/tenseven/BBTwish/row/master/BBTwish/data1.png)
 
   
 
@@ -14,7 +14,7 @@ typora-copy-images-to: BBTwish
 
 - 用来储存所有用户的许愿信息
 
-- ![data6](BBTwish/data6.png)
+- ![data6](https://github.com/tenseven/BBTwish/row/master/BBTwish/data6.png)
 
   
 
@@ -33,7 +33,7 @@ typora-copy-images-to: BBTwish
  ### 第3张 accumulate_help_times
 
 * 用来累计每天祝愿的次数
-* ![data3](data3.png)
+* ![data3](https://github.com/tenseven/BBTwish/row/master/BBTwish/data3.png)
 * 其中
 
   * day: 精确到天，根据日数来累计
@@ -45,7 +45,7 @@ typora-copy-images-to: BBTwish
 
 * 许愿次数限制，与第3张类似
 
-* ![data7](data7.png)
+* ![data7](https://github.com/tenseven/BBTwish/row/master/BBTwish/data7.png)
 
   
 
@@ -53,7 +53,7 @@ typora-copy-images-to: BBTwish
 
 * 统计精灵球个数，和精灵个数，以及基本信息（这个根据设计的方案来最终决定要不要）
 
-* ![data4](data4.png)
+* ![data4](https://github.com/tenseven/BBTwish/row/master/BBTwish/data4.png)
 
   
 
